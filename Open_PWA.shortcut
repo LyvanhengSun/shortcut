@@ -1,0 +1,17 @@
+{
+  "WFWorkflowClientVersion": "2.0",
+  "WFWorkflowIcon": {
+    "WFWorkflowIconStartColor": 4294912512
+  },
+  "WFWorkflowInputContentItemClasses": [
+    "WFURLContentItem"
+  ],
+  "WFWorkflowActions": [
+    {
+      "WFWorkflowActionIdentifier": "is.workflow.actions.openurl",
+      "WFWorkflowActionParameters": {
+        "WFURL": "https://annewskh.flutterflow.app/"
+      }
+    }
+  ]
+}
